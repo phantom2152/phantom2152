@@ -1,10 +1,6 @@
 ### Hi there 👋
 #### Phantom here
 
-# Who Am I?
-### find out if u can 
-#### And tell me at phantomkali007@protonmail.com
-
 ## Stats ✨ ✨
 
 ![Phantom's github stats](https://github-readme-stats.vercel.app/api/?username=phantom2152&show_icons=true&theme=radical)
