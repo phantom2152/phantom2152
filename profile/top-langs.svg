@@ -32,19 +32,19 @@
 <g clip-path="url(#bar)">
   <g class="grow">
     
-    <rect x="24.0" y="56" width="158.69" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="24.0" y="56" width="143.98" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="182.69" y="56" width="133.56" height="10" fill="#3572A5" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="167.98" y="56" width="124.04" height="10" fill="#3572A5" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="316.25" y="56" width="39.27" height="10" fill="#f1e05a" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="292.02" y="56" width="35.63" height="10" fill="#f1e05a" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="355.52" y="56" width="15.8" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="327.65" y="56" width="32.68" height="10" fill="#F05138" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="371.33" y="56" width="15.43" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="360.34" y="56" width="14.34" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="386.76" y="56" width="15.34" height="10" fill="#663399" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="374.68" y="56" width="14.0" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="402.1" y="56" width="13.9" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="388.68" y="56" width="27.32" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
     
   </g>
 </g>
@@ -52,43 +52,43 @@
 <g class="fade" style="animation-delay: 300ms">
   <circle cx="29.0" cy="92" r="5" fill="#3178c6"/>
   <text class="name" x="42.0" y="96">TypeScript</text>
-  <text class="pct" x="204.0" y="96" text-anchor="end">40.5%</text>
+  <text class="pct" x="204.0" y="96" text-anchor="end">36.7%</text>
 </g>
 
 <g class="fade" style="animation-delay: 360ms">
   <circle cx="225.0" cy="92" r="5" fill="#3572A5"/>
   <text class="name" x="238.0" y="96">Python</text>
-  <text class="pct" x="400.0" y="96" text-anchor="end">34.1%</text>
+  <text class="pct" x="400.0" y="96" text-anchor="end">31.6%</text>
 </g>
 
 <g class="fade" style="animation-delay: 420ms">
   <circle cx="29.0" cy="118" r="5" fill="#f1e05a"/>
   <text class="name" x="42.0" y="122">JavaScript</text>
-  <text class="pct" x="204.0" y="122" text-anchor="end">10.0%</text>
+  <text class="pct" x="204.0" y="122" text-anchor="end">9.1%</text>
 </g>
 
 <g class="fade" style="animation-delay: 480ms">
-  <circle cx="225.0" cy="118" r="5" fill="#e34c26"/>
-  <text class="name" x="238.0" y="122">HTML</text>
-  <text class="pct" x="400.0" y="122" text-anchor="end">4.0%</text>
+  <circle cx="225.0" cy="118" r="5" fill="#F05138"/>
+  <text class="name" x="238.0" y="122">Swift</text>
+  <text class="pct" x="400.0" y="122" text-anchor="end">8.3%</text>
 </g>
 
 <g class="fade" style="animation-delay: 540ms">
-  <circle cx="29.0" cy="144" r="5" fill="#00ADD8"/>
-  <text class="name" x="42.0" y="148">Go</text>
-  <text class="pct" x="204.0" y="148" text-anchor="end">3.9%</text>
+  <circle cx="29.0" cy="144" r="5" fill="#e34c26"/>
+  <text class="name" x="42.0" y="148">HTML</text>
+  <text class="pct" x="204.0" y="148" text-anchor="end">3.7%</text>
 </g>
 
 <g class="fade" style="animation-delay: 600ms">
-  <circle cx="225.0" cy="144" r="5" fill="#663399"/>
-  <text class="name" x="238.0" y="148">CSS</text>
-  <text class="pct" x="400.0" y="148" text-anchor="end">3.9%</text>
+  <circle cx="225.0" cy="144" r="5" fill="#00ADD8"/>
+  <text class="name" x="238.0" y="148">Go</text>
+  <text class="pct" x="400.0" y="148" text-anchor="end">3.6%</text>
 </g>
 
 <g class="fade" style="animation-delay: 660ms">
   <circle cx="29.0" cy="170" r="5" fill="#8b949e"/>
   <text class="name" x="42.0" y="174">Other</text>
-  <text class="pct" x="204.0" y="174" text-anchor="end">3.5%</text>
+  <text class="pct" x="204.0" y="174" text-anchor="end">7.0%</text>
 </g>
 
 
